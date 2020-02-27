@@ -1,1 +1,2 @@
 # respiration_sync_experiment
+In this task, participants listen to a story either while counting backwards from 100 each time they hear a tone and reseting their counts with a target stimulus (no attention paid to the story) or without a secondary task (attention paid to the story). The aim of this experiment is to see whether we can observe a higher inter-subject synchronization of the respiration and the heart activity in the attention condition compared to no attention condition.
